@@ -1,3 +1,14 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+Randy Tran
+1) Linus Torvalds
+2) built linux
+3) 2005
+4) git init
+5) it is used to upload local repository content to the main one
+6) tells Git which files to ignore when committing your project to Github
+7) its a clones for projects, free changes without affecting original project
+8) its used to create a copy of a specific repository or branch within repository
+9) no..
+10)yes
